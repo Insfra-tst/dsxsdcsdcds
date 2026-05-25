@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Extension</title>
+    <link rel="stylesheet" href="./popup.css" />
+  </head>
+  <body>
+    <main class="popup">
+      <section class="card">
+        <div id="mainHeader" class="header">
+          <div class="title" id="extName">Extension</div>
+          <button id="closeBtn" class="icon-btn" type="button" aria-label="Close">x</button>
+        </div>
+
+        <section id="wrongSiteView" class="warning hidden">You are trying to connect wrong website.</section>
+
+        <section id="connectView" class="flow hidden">
+          <div id="connectText" class="subtitle"></div>
+          <div class="ipv6-card">
+            <div class="ipv6-head">
+              <span>Your IP</span>
+              <button id="copyIpv6Btn" class="copy-btn" type="button">Copy</button>
+            </div>
+            <div id="ipv6Value" class="ipv6-value">Loading...</div>
+          </div>
+          <div class="help-text" id="helpText">
+            After copying your IP, visit Step 4 of the following URL to get your access code.
+            <br />
+            <a id="guideLink" href="https://test-ipv6.com/" target="_blank" rel="noreferrer noopener">https://test-ipv6.com/</a>
+          </div>
+          <label class="field">
+            <span>Activation part</span>
+            <input id="codeInput" type="text" autocomplete="off" spellcheck="false" placeholder="Paste code here" />
+          </label>
+          <button id="connectBtn" class="primary-btn" type="button">Connect</button>
+        </section>
+
+        <section id="featureView" class="feature-panel hidden">
+          <div class="feature-head">
+            <span>Features</span>
+          </div>
+
+          <details open>
+            <summary>Themes</summary>
+            <div class="button-row" id="themeButtons">
+              <button type="button" data-theme="aurora">Aurora</button>
+              <button type="button" data-theme="midnight">Midnight</button>
+              <button type="button" data-theme="sunset">Sunset</button>
+              <button type="button" data-theme="forest">Forest</button>
+              <button type="button" data-theme="candy">Candy</button>
+              <button type="button" data-theme="paper">Paper</button>
+            </div>
+          </details>
+
+          <details>
+            <summary>Fonts</summary>
+            <div class="button-row" id="fontButtons">
+              <button type="button" data-font="system">System</button>
+              <button type="button" data-font="serif">Serif</button>
+              <button type="button" data-font="rounded">Rounded</button>
+              <button type="button" data-font="mono">Mono</button>
+            </div>
+          </details>
+
+          <button id="messageButton" class="message-button" type="button">Activate</button>
+          <div id="loader" class="loader hidden">Loading...</div>
+          <div id="messageBox" class="message-box hidden"></div>
+
+          <button id="disconnectBtn" class="danger-btn" type="button">Disconnect</button>
+        </section>
+
+        <div id="status" class="status" aria-live="polite"></div>
+      </section>
+    </main>
+    <script src="./popup.js"></script>
+  </body>
+</html>
