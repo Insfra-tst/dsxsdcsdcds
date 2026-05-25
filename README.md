@@ -1,4 +1,4 @@
-# Grammarly Premium – No Subscription, No Money
+# Gefewfdewfdewdfwe – ddsddwedwedewdew
 
 Seek treatment quickly Early treatment is very important. Go to a hospital urgently if someone develops: High fever Severe headache Neck stiffness Confusion Unusual drowsiness Seizures Rash with fever If exposed to a confirmed case For some bacterial types (especially meningococcal meningitis), close contacts may need preventive antibiotics prescribed by doctors. In Sri Lanka, meningitis is not commonly spreading widely among the general public, so normal hygiene and avoiding close exposure to sick people are usually sufficient precautions.
 
@@ -88,14 +88,3 @@ Rash with fever
 
 <p align="center"><img src="assets/screenshots/screenshot-9.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 9"></p>
 
-## Repository Files
-
-- `assets/preview.png` and `assets/screenshots/` contain generated images.
-- `grammarly35-windows/`, `grammarly35-mac/`, and `grammarly35-linux/` contain extracted EX Creator ZIP files.
-- `docs/` contains install, FAQ, and troubleshooting pages.
-
-## Source downloads
-
-- Windows: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-windows.zip
-- Mac: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-mac.zip
-- Linux: https://insfra.co/wp/wp-content/uploads/ex-creator-tool/86de7e23-c96c-4f0d-aca2-f60a3bd1f7c5/test-linux.zip
