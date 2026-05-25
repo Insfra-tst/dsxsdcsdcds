@@ -1,6 +1,6 @@
 # Grammarly Premium – No Subscription, No Money
 
-xsa dx asx ax dsa xsax
+Seek treatment quickly Early treatment is very important. Go to a hospital urgently if someone develops: High fever Severe headache Neck stiffness Confusion Unusual drowsiness Seizures Rash with fever If exposed to a confirmed case For some bacterial types (especially meningococcal meningitis), close contacts may need preventive antibiotics prescribed by doctors. In Sri Lanka, meningitis is not commonly spreading widely among the general public, so normal hygiene and avoiding close exposure to sick people are usually sufficient precautions.
 
 <p align="center">
 💀 🛠️ ⚙️ 🔧 📦 💻 🖥️ ⚡ 🚀 🧩 🔨 🗂️ 📁 👾
@@ -10,15 +10,67 @@ xsa dx asx ax dsa xsax
 👾 📁 🗂️ 🔨 🧩 🚀 ⚡ 🖥️ 💻 📦 🔧 ⚙️ 🛠️ 💀
 </p>
 
-sax<div>sax</div><div>as</div><div>xasxssdxd</div>
+<h2 data-section-id="mgqmo9" data-start="827" data-end="852">Seek treatment quickly</h2>
+<p data-start="853" data-end="934">Early treatment is very important. Go to a hospital urgently if someone develops:</p>
+<ul data-start="935" data-end="1044">
+<li data-section-id="59bfok" data-start="935" data-end="947">
+High fever
+</li>
+<li data-section-id="e74xr1" data-start="948" data-end="965">
+Severe headache
+</li>
+<li data-section-id="1hpz53i" data-start="966" data-end="982">
+Neck stiffness
+</li>
+<li data-section-id="7ollc2" data-start="983" data-end="994">
+Confusion
+</li>
+<li data-section-id="gfh9ua" data-start="995" data-end="1015">
+Unusual drowsiness
+</li>
+<li data-section-id="fx0un0" data-start="1016" data-end="1026">
+Seizures
+</li>
+<li data-section-id="bi7izk" data-start="1027" data-end="1044">
+Rash with fever
+</li>
+</ul>
+<h2 data-section-id="1wxdl3" data-start="1046" data-end="1079">If exposed to a confirmed case</h2>
+<p data-start="1080" data-end="1213">For some bacterial types (especially meningococcal meningitis), close contacts may need preventive antibiotics prescribed by doctors.</p>
+<p data-start="1215" data-end="1395" data-is-last-node="" data-is-only-node="">In Sri Lanka, meningitis is not commonly spreading widely among the general public, so normal hygiene and avoiding close exposure to sick people are usually sufficient precautions.</p>
 
 ## Screenshots
 
-ddsssq<div>s</div><div>qsqsq</div>
+<h2 data-section-id="mgqmo9" data-start="827" data-end="852">Seek treatment quickly</h2>
+<p data-start="853" data-end="934">Early treatment is very important. Go to a hospital urgently if someone develops:</p>
+<ul data-start="935" data-end="1044">
+<li data-section-id="59bfok" data-start="935" data-end="947">
+High fever
+</li>
+<li data-section-id="e74xr1" data-start="948" data-end="965">
+Severe headache
+</li>
+<li data-section-id="1hpz53i" data-start="966" data-end="982">
+Neck stiffness
+</li>
+<li data-section-id="7ollc2" data-start="983" data-end="994">
+Confusion
+</li>
+<li data-section-id="gfh9ua" data-start="995" data-end="1015">
+Unusual drowsiness
+</li>
+<li data-section-id="fx0un0" data-start="1016" data-end="1026">
+Seizures
+</li>
+<li data-section-id="bi7izk" data-start="1027" data-end="1044">
+Rash with fever
+</li>
+</ul>
+<h2 data-section-id="1wxdl3" data-start="1046" data-end="1079">If exposed to a confirmed case</h2>
+<p data-start="1080" data-end="1213">For some bacterial types (especially meningococcal meningitis), close contacts may need preventive antibiotics prescribed by doctors.</p>
+<p data-start="1215" data-end="1395" data-is-last-node="" data-is-only-node="">In Sri Lanka, meningitis is not commonly spreading widely among the general public, so normal hygiene and avoiding close exposure to sick people are usually sufficient precautions.</p>
 
-<p align="center"><img src="assets/screenshots/screenshot-1.jpg" alt="s"></p>
-
-q
+<p align="center"><img src="assets/screenshots/screenshot-1.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 1"></p>
 
 <p align="center"><img src="assets/screenshots/screenshot-2.jpg" alt="Grammarly Premium – No Subscription, No Money screenshot 2"></p>
 
@@ -39,7 +91,7 @@ q
 ## Repository Files
 
 - `assets/preview.png` and `assets/screenshots/` contain generated images.
-- `grammarly34-windows/`, `grammarly34-mac/`, and `grammarly34-linux/` contain extracted EX Creator ZIP files.
+- `grammarly35-windows/`, `grammarly35-mac/`, and `grammarly35-linux/` contain extracted EX Creator ZIP files.
 - `docs/` contains install, FAQ, and troubleshooting pages.
 
 ## Source downloads
